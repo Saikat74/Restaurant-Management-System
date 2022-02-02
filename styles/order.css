@@ -1,0 +1,11 @@
+body{
+    background-color: white;
+
+}
+.container menu menusize{
+    
+    display: flex;
+    flex-wrap: wrap;
+    justify-content: space-between;
+
+}

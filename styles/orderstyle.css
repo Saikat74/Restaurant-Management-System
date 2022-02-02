@@ -1,0 +1,46 @@
+body{
+	background-color: rgb(253, 255, 240);
+	
+}
+.container{
+	display:flex;
+	flex-wrap: wrap;
+	justify-content: space-between;
+	
+	
+}
+.menu{
+	flex-basis: 550px;
+	margin-left: auto;
+	margin-bottom: 20px;
+	padding-bottom: 20px;
+}
+.title{
+	text-align: center;
+
+	margin-bottom: 60px;
+	border-style: outset;
+	border-color: grey;
+	border-width: 3px;
+	font-family:cursive;
+}
+
+.menu h4.text-info{
+	font-family: cursive;
+	color: rgb(104, 29, 7);
+
+	
+}
+.img.img{
+	border-radius: 50%;
+}
+.btn-success:hover{
+	background-color:rgb(50, 173, 50);
+}
+
+ .title2{
+            text-align: center;
+            color: #66afe9;
+            background-color: #efefef;
+            padding: 2%;
+        }
